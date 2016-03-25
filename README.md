@@ -1,6 +1,8 @@
 # Ember-aspnet-csrf
 
-This README outlines the details of collaborating on this Ember addon.
+Adds ASP.NET MVC based CSRF protection to Ember applications.
+
+Port of https://github.com/bobisjan/ember-django-csrf/
 
 ## Installation
 
