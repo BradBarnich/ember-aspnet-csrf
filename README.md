@@ -1,5 +1,7 @@
 # Ember-aspnet-csrf
 
+[![Build Status](https://travis-ci.org/BradBarnich/ember-aspnet-csrf.svg?branch=master)](https://travis-ci.org/BradBarnich/ember-aspnet-csrf)
+
 Adds ASP.NET MVC based CSRF protection to Ember applications.
 
 Port of https://github.com/bobisjan/ember-django-csrf/
