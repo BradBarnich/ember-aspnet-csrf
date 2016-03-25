@@ -1,6 +1,6 @@
 {
   "name": "ember-aspnet-csrf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds ASP.NET MVC based CSRF protection to Ember applications",
   "directories": {
     "doc": "doc",
